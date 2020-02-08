@@ -1,0 +1,15 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enigma.js",
+  "scripts": {
+    "start": "node enigma.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "readline-sync": "^1.4.10"
+  }
+}
